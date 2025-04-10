@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 13",
+    "price": 799,
+    "description": "iPhone 13 с дисплеем Super Retina XDR 6,1 дюйма, чипом A15 Bionic и двойной камерой.",
+    "category": "Смартфоны"
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy S22",
+    "price": 749,
+    "description": "Samsung Galaxy S22 с 6,1-дюймовым Dynamic AMOLED 2X дисплеем и тройной камерой 50 МП.",
+    "category": "Смартфоны"
+  },
+  {
+    "id": 3,
+    "name": "Google Pixel 6",
+    "price": 599,
+    "description": "Google Pixel 6 с процессором Google Tensor и уникальной системой камер для великолепных фотографий.",
+    "category": "Смартфоны"
+  },
+  {
+    "id": 4,
+    "name": "MacBook Pro 14",
+    "price": 1999,
+    "description": "14-дюймовый MacBook Pro с чипом M1 Pro, 16 ГБ памяти и SSD-накопителем 512 ГБ.",
+    "category": "Ноутбуки"
+  },
+  {
+    "id": 5,
+    "name": "Dell XPS 13",
+    "price": 1299,
+    "description": "Dell XPS 13 с процессором Intel Core i7, 16 ГБ RAM и SSD 512 ГБ.",
+    "category": "Ноутбуки"
+  },
+  {
+    "id": 6,
+    "name": "Lenovo ThinkPad X1 Carbon",
+    "price": 1499,
+    "description": "Lenovo ThinkPad X1 Carbon — ультралегкий бизнес-ноутбук с 14-дюймовым экраном.",
+    "category": "Ноутбуки"
+  },
+  {
+    "id": 7,
+    "name": "iPad Pro 12.9",
+    "price": 1099,
+    "description": "iPad Pro 12.9 с чипом M1, дисплеем Liquid Retina XDR и поддержкой Apple Pencil.",
+    "category": "Планшеты"
+  },
+  {
+    "id": 8,
+    "name": "Samsung Galaxy Tab S8",
+    "price": 699,
+    "description": "Samsung Galaxy Tab S8 с 11-дюймовым экраном и S Pen в комплекте.",
+    "category": "Планшеты"
+  },
+  {
+    "id": 9,
+    "name": "Microsoft Surface Pro 8",
+    "price": 999,
+    "description": "Microsoft Surface Pro 8 — планшет-трансформер с Windows 11 и 13-дюймовым экраном.",
+    "category": "Планшеты"
+  },
+  {
+    "id": 10,
+    "name": "Apple Watch Series 7",
+    "price": 399,
+    "description": "Apple Watch Series 7 с большим дисплеем Retina и зарядкой повышенной мощности.",
+    "category": "Умные часы"
+  },
+  {
+    "id": 11,
+    "name": "Samsung Galaxy Watch 4",
+    "price": 249,
+    "description": "Samsung Galaxy Watch 4 с OneUI Watch и расширенным трекером здоровья.",
+    "category": "Умные часы"
+  },
+  {
+    "id": 12,
+    "name": "Fitbit Sense",
+    "price": 299,
+    "description": "Fitbit Sense — умные часы с продвинутыми функциями мониторинга здоровья и стресса.",
+    "category": "Умные часы"
+  },
+  {
+    "id": 13,
+    "name": "AirPods Pro",
+    "price": 249,
+    "description": "AirPods Pro с активным шумоподавлением и режимом прозрачности.",
+    "category": "Наушники"
+  },
+  {
+    "id": 14,
+    "name": "Sony WH-1000XM4",
+    "price": 349,
+    "description": "Sony WH-1000XM4 — беспроводные наушники с лидирующим шумоподавлением.",
+    "category": "Наушники"
+  },
+  {
+    "id": 15,
+    "name": "Bose QuietComfort 45",
+    "price": 329,
+    "description": "Bose QuietComfort 45 — комфортные наушники с превосходным звуком и шумоподавлением.",
+    "category": "Наушники"
+  },
+  {
+    "id": 16,
+    "name": "Canon EOS R5",
+    "price": 3899,
+    "description": "Canon EOS R5 — полнокадровая беззеркальная камера с разрешением 45 МП и 8K-видео.",
+    "category": "Камеры"
+  },
+  {
+    "id": 17,
+    "name": "Sony Alpha A7 IV",
+    "price": 2499,
+    "description": "Sony Alpha A7 IV — профессиональная полнокадровая камера для фото и видео.",
+    "category": "Камеры"
+  },
+  {
+    "id": 18,
+    "name": "Fujifilm X-T4",
+    "price": 1699,
+    "description": "Fujifilm X-T4 — флагманская беззеркальная камера с матрицей APS-C и стабилизацией.",
+    "category": "Камеры"
+  },
+  {
+    "id": 19,
+    "name": "Nintendo Switch OLED",
+    "price": 349,
+    "description": "Nintendo Switch OLED с улучшенным 7-дюймовым OLED-дисплеем и расширенной памятью.",
+    "category": "Игровые консоли"
+  },
+  {
+    "id": 20,
+    "name": "PlayStation 5",
+    "price": 499,
+    "description": "PlayStation 5 с ультрабыстрым SSD, 3D-аудио и контроллером DualSense.",
+    "category": "Игровые консоли"
+  },
+  {
+    "id": 21,
+    "name": "Xbox Series X",
+    "price": 499,
+    "description": "Xbox Series X — самая мощная консоль Xbox с поддержкой 4K-игр при 120 кадрах в секунду.",
+    "category": "Игровые консоли"
+  },
+  {
+    "id": 22,
+    "name": "LG C1 OLED 65\"",
+    "price": 1999,
+    "description": "LG C1 OLED 65\" с поддержкой HDMI 2.1, G-Sync, FreeSync и 120 Гц.",
+    "category": "Телевизоры"
+  },
+  {
+    "id": 23,
+    "name": "Samsung QN90A Neo QLED 55\"",
+    "price": 1799,
+    "description": "Samsung QN90A Neo QLED 55\" с технологией квантовых мини-светодиодов и процессором Neo Quantum.",
+    "category": "Телевизоры"
+  },
+  {
+    "id": 24,
+    "name": "Sony A80J OLED 55\"",
+    "price": 1899,
+    "description": "Sony A80J OLED 55\" с процессором XR Cognitive и технологией Acoustic Surface Audio+.",
+    "category": "Телевизоры"
+  },
+  {
+    "id": 25,
+    "name": "DJI Mavic 3",
+    "price": 2049,
+    "description": "DJI Mavic 3 с двойной камерой Hasselblad и увеличенным временем полета.",
+    "category": "Дроны"
+  },
+  {
+    "id": 26,
+    "name": "DJI Mini 3 Pro",
+    "price": 759,
+    "description": "DJI Mini 3 Pro — компактный дрон весом менее 249 г с улучшенной камерой и датчиками.",
+    "category": "Дроны"
+  },
+  {
+    "id": 27,
+    "name": "Autel EVO Lite+",
+    "price": 1379,
+    "description": "Autel EVO Lite+ с 1-дюймовой матрицей, 6K-видео и 40-минутным временем полета.",
+    "category": "Дроны"
+  },
+  {
+    "id": 28,
+    "name": "Oculus Quest 2",
+    "price": 299,
+    "description": "Oculus Quest 2 — автономный VR-шлем с контроллерами Touch и библиотекой игр.",
+    "category": "VR"
+  },
+  {
+    "id": 29,
+    "name": "HTC Vive Pro 2",
+    "price": 799,
+    "description": "HTC Vive Pro 2 с разрешением 5K и полем зрения 120 градусов.",
+    "category": "VR"
+  },
+  {
+    "id": 30,
+    "name": "Valve Index",
+    "price": 999,
+    "description": "Valve Index — комплект VR с продвинутыми контроллерами и высокой частотой обновления.",
+    "category": "VR"
+  }
+]
